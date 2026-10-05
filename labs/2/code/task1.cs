@@ -1,3 +1,5 @@
+using Microsoft.VisualBasic;
+
 public class Student
 {
     public int number;
@@ -29,11 +31,21 @@ public class Student
 
     public override string ToString()
     {
-        return base.ToString();
+        return $@"
+        Номер зачётной книжки:
+        {number}
+        ФИО:
+        {surname}
+        {name}
+        {patronymic}
+        Родился(ась):
+        {date_of_birth}
+        Адрес:
+        {address}
+        Номер телефона:
+        {phone_num}";
     }
 }
-
-
 public class Program
 {
     public static void Main()
@@ -76,5 +88,7 @@ public class Program
         } else {
             Console.WriteLine("Студенты 1 и 3 не совпадают\n");
         }
+
+        Console.WriteLine(student1.ToString());
     }
 }
