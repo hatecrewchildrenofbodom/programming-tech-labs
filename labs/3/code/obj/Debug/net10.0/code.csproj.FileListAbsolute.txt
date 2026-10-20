@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\code.sourcelink.json
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\bin\Debug\net10.0\code.exe
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\bin\Debug\net10.0\code.deps.json
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\bin\Debug\net10.0\code.runtimeconfig.json
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\bin\Debug\net10.0\code.dll
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\bin\Debug\net10.0\code.pdb
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\code.dll
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\refint\code.dll
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\code.pdb
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\Users\User\Desktop\Мусорка\3 курс\cs\labs\3\code\obj\Debug\net10.0\ref\code.dll
